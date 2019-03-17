@@ -4,9 +4,8 @@ Tell the reader (someone who does not know anything about this project)
 all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJE ADI: Angry Birds - Labirent Görevleri
+PROJE AMACI: code.org sitesinde yer alan ve blok tabanlı olarak gerçekleştirilen labirent görevlerinin metin tabanlı Greenfoot ortamında da gerçekleştirilmesine olanak sağlayacak etkinliklerin tasarlanabilmesi.
+VERSİYON veya TARİH:
+KULLANICI TALİMATLARI: Gerekli kullanıcı talimatları PEGEM Akademiden çıkan "Kuramdan Uygulamaya Programlama Öğretimi" Bölüm 10-Metin tabanlı Programlama Etkinlik 3'te yer almaktadır.
+
